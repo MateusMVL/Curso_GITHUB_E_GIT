@@ -1,6 +1,6 @@
-# Curso_JS
+# Curso_GitHub
 Olá, mundo!
 
 Primeiro repositório do GITHUB
 
-Curso em vídeo
+#Curso em vídeo
